@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    position: sticky;
+    top: 0;
+    padding: 5px ;
+    align-items: flex-end;
+    justify-content: flex-end;
+    
+    }
+    
+    .button{
+    border: 1px;
+    border-radius: 0px 15px 15px 0px;
+    background-color: rgb(29, 150, 206);
+    
+    
+    }
